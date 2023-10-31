@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>7310D4D4-7537-4521-8F09-BFACA2904EED</ifid>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>A New Project</title>
+            <author>Michael Gray</author>
+            <headline>An Interactive Fiction</headline>
+            <genre>Fiction</genre>
+            <firstpublished>2023</firstpublished>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2023-10-31</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>Inform 10.1.2 (build )</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>Inform 10.1.2 (build )</generatorversion>
+            <originated>2023-10-31</originated>
+        </colophon>
+        <glulx>
+            <serial>231031</serial>
+            <release>1</release>
+            <compiler>Inform Inform 10.1.2 (build )</compiler>
+        </glulx>
+    </story>
+</ifindex>
